@@ -1,0 +1,1402 @@
+[ {
+  "name": "Student 1",
+  "roll_no": "CS101",
+  "quizzes": {
+    "quiz1": 17,
+    "quiz2": 19,
+    "quiz3": 20
+  },
+  "assignments": {
+    "assignment1": 89,
+    "assignment2": 86,
+    "assignment3": 81
+  }
+},
+  {
+    "name": "Student 2",
+    "roll_no": "CS102",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 12,
+      "quiz3": 12
+    },
+    "assignments": {
+      "assignment1": 97,
+      "assignment2": 76,
+      "assignment3": 78
+    }
+  },
+
+  {
+    "name": "Student 3",
+    "roll_no": "CS103",
+    "quizzes": {
+      "quiz1": 13,
+      "quiz2": 17,
+      "quiz3": 13
+    },
+    "assignments": {
+      "assignment1": 100,
+      "assignment2": 73,
+      "assignment3": 88
+    }
+  },
+  {
+    "name": "Student 4",
+    "roll_no": "CS104",
+    "quizzes": {
+      "quiz1": 20,
+      "quiz2": 19,
+      "quiz3": 13
+    },
+    "assignments": {
+      "assignment1": 85,
+      "assignment2": 89,
+      "assignment3": 77
+    }
+  },
+  {
+    "name": "Student 5",
+    "roll_no": "CS105",
+    "quizzes": {
+      "quiz1": 20,
+      "quiz2": 10,
+      "quiz3": 18
+    },
+    "assignments": {
+      "assignment1": 84,
+      "assignment2": 86,
+      "assignment3": 88
+    }
+  },
+  {
+    "name": "Student 6",
+    "roll_no": "CS106",
+    "quizzes": {
+      "quiz1": 11,
+      "quiz2": 18,
+      "quiz3": 10
+    },
+    "assignments": {
+      "assignment1": 100,
+      "assignment2": 97,
+      "assignment3": 70
+    }
+  },
+  {
+    "name": "Student 7",
+    "roll_no": "CS107",
+    "quizzes": {
+      "quiz1": 14,
+      "quiz2": 20,
+      "quiz3": 11
+    },
+    "assignments": {
+      "assignment1": 82,
+      "assignment2": 77,
+      "assignment3": 87
+    }
+  },
+  {
+    "name": "Student 8",
+    "roll_no": "CS108",
+    "quizzes": {
+      "quiz1": 11,
+      "quiz2": 20,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 90,
+      "assignment2": 98,
+      "assignment3": 87
+    }
+  },
+  {
+    "name": "Student 9",
+    "roll_no": "CS109",
+    "quizzes": {
+      "quiz1": 10,
+      "quiz2": 17,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 99,
+      "assignment2": 90,
+      "assignment3": 85
+    }
+  },
+  {
+    "name": "Student 10",
+    "roll_no": "CS110",
+    "quizzes": {
+      "quiz1": 11,
+      "quiz2": 11,
+      "quiz3": 13
+    },
+    "assignments": {
+      "assignment1": 76,
+      "assignment2": 84,
+      "assignment3": 88
+    }
+  },
+  {
+    "name": "Student 11",
+    "roll_no": "CS111",
+    "quizzes": {
+      "quiz1": 13,
+      "quiz2": 18,
+      "quiz3": 17
+    },
+    "assignments": {
+      "assignment1": 81,
+      "assignment2": 96,
+      "assignment3": 94
+    }
+  },
+  {
+    "name": "Student 12",
+    "roll_no": "CS112",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 19,
+      "quiz3": 20
+    },
+    "assignments": {
+      "assignment1": 95,
+      "assignment2": 91,
+      "assignment3": 93
+    }
+  },
+  {
+    "name": "Student 13",
+    "roll_no": "CS113",
+    "quizzes": {
+      "quiz1": 10,
+      "quiz2": 15,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 78,
+      "assignment2": 92,
+      "assignment3": 95
+    }
+  },
+  {
+    "name": "Student 14",
+    "roll_no": "CS114",
+    "quizzes": {
+      "quiz1": 10,
+      "quiz2": 10,
+      "quiz3": 11
+    },
+    "assignments": {
+      "assignment1": 92,
+      "assignment2": 98,
+      "assignment3": 85
+    }
+  },
+  {
+    "name": "Student 15",
+    "roll_no": "CS115",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 12,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 73,
+      "assignment2": 71,
+      "assignment3": 81
+    }
+  },
+  {
+    "name": "Student 16",
+    "roll_no": "CS116",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 10,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 81,
+      "assignment2": 76,
+      "assignment3": 74
+    }
+  },
+  {
+    "name": "Student 17",
+    "roll_no": "CS117",
+    "quizzes": {
+      "quiz1": 18,
+      "quiz2": 12,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 91,
+      "assignment2": 92,
+      "assignment3": 87
+    }
+  },
+  {
+    "name": "Student 18",
+    "roll_no": "CS118",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 12,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 82,
+      "assignment2": 80,
+      "assignment3": 78
+    }
+  },
+  {
+    "name": "Student 19",
+    "roll_no": "CS119",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 16,
+      "quiz3": 12
+    },
+    "assignments": {
+      "assignment1": 88,
+      "assignment2": 90,
+      "assignment3": 97
+    }
+  },
+  {
+    "name": "Student 20",
+    "roll_no": "CS120",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 19,
+      "quiz3": 10
+    },
+    "assignments": {
+      "assignment1": 79,
+      "assignment2": 95,
+      "assignment3": 84
+    }
+  },
+  {
+    "name": "Student 21",
+    "roll_no": "CS121",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 15,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 76,
+      "assignment2": 94,
+      "assignment3": 95
+    }
+  },
+  {
+    "name": "Student 22",
+    "roll_no": "CS122",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 16,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 84,
+      "assignment2": 90,
+      "assignment3": 72
+    }
+  },
+  {
+    "name": "Student 23",
+    "roll_no": "CS123",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 13,
+      "quiz3": 11
+    },
+    "assignments": {
+      "assignment1": 77,
+      "assignment2": 89,
+      "assignment3": 98
+    }
+  },
+  {
+    "name": "Student 24",
+    "roll_no": "CS124",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 17,
+      "quiz3": 12
+    },
+    "assignments": {
+      "assignment1": 94,
+      "assignment2": 84,
+      "assignment3": 74
+    }
+  },
+  {
+    "name": "Student 25",
+    "roll_no": "CS125",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 14,
+      "quiz3": 10
+    },
+    "assignments": {
+      "assignment1": 76,
+      "assignment2": 95,
+      "assignment3": 95
+    }
+  },
+  {
+    "name": "Student 26",
+    "roll_no": "CS126",
+    "quizzes": {
+      "quiz1": 20,
+      "quiz2": 14,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 73,
+      "assignment2": 100,
+      "assignment3": 70
+    }
+  },
+  {
+    "name": "Student 27",
+    "roll_no": "CS127",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 16,
+      "quiz3": 10
+    },
+    "assignments": {
+      "assignment1": 88,
+      "assignment2": 71,
+      "assignment3": 71
+    }
+  },
+  {
+    "name": "Student 28",
+    "roll_no": "CS128",
+    "quizzes": {
+      "quiz1": 18,
+      "quiz2": 10,
+      "quiz3": 18
+    },
+    "assignments": {
+      "assignment1": 84,
+      "assignment2": 74,
+      "assignment3": 100
+    }
+  },
+  {
+    "name": "Student 29",
+    "roll_no": "CS129",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 17,
+      "quiz3": 18
+    },
+    "assignments": {
+      "assignment1": 99,
+      "assignment2": 95,
+      "assignment3": 85
+    }
+  },
+  {
+    "name": "Student 30",
+    "roll_no": "CS130",
+    "quizzes": {
+      "quiz1": 10,
+      "quiz2": 18,
+      "quiz3": 13
+    },
+    "assignments": {
+      "assignment1": 78,
+      "assignment2": 93,
+      "assignment3": 78
+    }
+  },
+  {
+    "name": "Student 31",
+    "roll_no": "CS131",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 18,
+      "quiz3": 10
+    },
+    "assignments": {
+      "assignment1": 95,
+      "assignment2": 77,
+      "assignment3": 86
+    }
+  },
+  {
+    "name": "Student 32",
+    "roll_no": "CS132",
+    "quizzes": {
+      "quiz1": 20,
+      "quiz2": 13,
+      "quiz3": 20
+    },
+    "assignments": {
+      "assignment1": 73,
+      "assignment2": 93,
+      "assignment3": 97
+    }
+  },
+  {
+    "name": "Student 33",
+    "roll_no": "CS133",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 20,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 82,
+      "assignment2": 90,
+      "assignment3": 89
+    }
+  },
+  {
+    "name": "Student 34",
+    "roll_no": "CS134",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 10,
+      "quiz3": 12
+    },
+    "assignments": {
+      "assignment1": 91,
+      "assignment2": 97,
+      "assignment3": 76
+    }
+  },
+  {
+    "name": "Student 35",
+    "roll_no": "CS135",
+    "quizzes": {
+      "quiz1": 10,
+      "quiz2": 15,
+      "quiz3": 17
+    },
+    "assignments": {
+      "assignment1": 76,
+      "assignment2": 80,
+      "assignment3": 80
+    }
+  },
+  {
+    "name": "Student 36",
+    "roll_no": "CS136",
+    "quizzes": {
+      "quiz1": 14,
+      "quiz2": 13,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 87,
+      "assignment2": 85,
+      "assignment3": 73
+    }
+  },
+  {
+    "name": "Student 37",
+    "roll_no": "CS137",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 14,
+      "quiz3": 15
+    },
+    "assignments": {
+      "assignment1": 93,
+      "assignment2": 71,
+      "assignment3": 96
+    }
+  },
+  {
+    "name": "Student 38",
+    "roll_no": "CS138",
+    "quizzes": {
+      "quiz1": 11,
+      "quiz2": 15,
+      "quiz3": 13
+    },
+    "assignments": {
+      "assignment1": 100,
+      "assignment2": 89,
+      "assignment3": 93
+    }
+  },
+  {
+    "name": "Student 39",
+    "roll_no": "CS139",
+    "quizzes": {
+      "quiz1": 14,
+      "quiz2": 11,
+      "quiz3": 12
+    },
+    "assignments": {
+      "assignment1": 84,
+      "assignment2": 74,
+      "assignment3": 82
+    }
+  },
+  {
+    "name": "Student 40",
+    "roll_no": "CS140",
+    "quizzes": {
+      "quiz1": 13,
+      "quiz2": 13,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 85,
+      "assignment2": 84,
+      "assignment3": 95
+    }
+  },
+  {
+    "name": "Student 41",
+    "roll_no": "CS141",
+    "quizzes": {
+      "quiz1": 18,
+      "quiz2": 16,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 87,
+      "assignment2": 75,
+      "assignment3": 94
+    }
+  },
+  {
+    "name": "Student 42",
+    "roll_no": "CS142",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 17,
+      "quiz3": 18
+    },
+    "assignments": {
+      "assignment1": 81,
+      "assignment2": 85,
+      "assignment3": 73
+    }
+  },
+  {
+    "name": "Student 43",
+    "roll_no": "CS143",
+    "quizzes": {
+      "quiz1": 15,
+      "quiz2": 12,
+      "quiz3": 18
+    },
+    "assignments": {
+      "assignment1": 95,
+      "assignment2": 74,
+      "assignment3": 74
+    }
+  },
+  {
+    "name": "Student 44",
+    "roll_no": "CS144",
+    "quizzes": {
+      "quiz1": 11,
+      "quiz2": 13,
+      "quiz3": 11
+    },
+    "assignments": {
+      "assignment1": 83,
+      "assignment2": 71,
+      "assignment3": 73
+    }
+  },
+  {
+    "name": "Student 45",
+    "roll_no": "CS145",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 15,
+      "quiz3": 17
+    },
+    "assignments": {
+      "assignment1": 73,
+      "assignment2": 81,
+      "assignment3": 74
+    }
+  },
+  {
+    "name": "Student 46",
+    "roll_no": "CS146",
+    "quizzes": {
+      "quiz1": 15,
+      "quiz2": 12,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 83,
+      "assignment2": 96,
+      "assignment3": 88
+    }
+  },
+  {
+    "name": "Student 47",
+    "roll_no": "CS147",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 12,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 71,
+      "assignment2": 82,
+      "assignment3": 96
+    }
+  },
+  {
+    "name": "Student 48",
+    "roll_no": "CS148",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 11,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 88,
+      "assignment2": 94,
+      "assignment3": 92
+    }
+  },
+  {
+    "name": "Student 49",
+    "roll_no": "CS149",
+    "quizzes": {
+      "quiz1": 18,
+      "quiz2": 18,
+      "quiz3": 10
+    },
+    "assignments": {
+      "assignment1": 71,
+      "assignment2": 89,
+      "assignment3": 88
+    }
+  },
+  {
+    "name": "Student 50",
+    "roll_no": "CS150",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 16,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 93,
+      "assignment2": 70,
+      "assignment3": 91
+    }
+  },
+  {
+    "name": "Student 51",
+    "roll_no": "CS151",
+    "quizzes": {
+      "quiz1": 13,
+      "quiz2": 16,
+      "quiz3": 15
+    },
+    "assignments": {
+      "assignment1": 90,
+      "assignment2": 78,
+      "assignment3": 83
+    }
+  },
+  {
+    "name": "Student 52",
+    "roll_no": "CS152",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 17,
+      "quiz3": 20
+    },
+    "assignments": {
+      "assignment1": 74,
+      "assignment2": 86,
+      "assignment3": 84
+    }
+  },
+  {
+    "name": "Student 53",
+    "roll_no": "CS153",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 17,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 100,
+      "assignment2": 95,
+      "assignment3": 73
+    }
+  },
+  {
+    "name": "Student 54",
+    "roll_no": "CS154",
+    "quizzes": {
+      "quiz1": 10,
+      "quiz2": 10,
+      "quiz3": 17
+    },
+    "assignments": {
+      "assignment1": 83,
+      "assignment2": 70,
+      "assignment3": 90
+    }
+  },
+  {
+    "name": "Student 55",
+    "roll_no": "CS155",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 16,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 89,
+      "assignment2": 91,
+      "assignment3": 81
+    }
+  },
+  {
+    "name": "Student 56",
+    "roll_no": "CS156",
+    "quizzes": {
+      "quiz1": 13,
+      "quiz2": 11,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 75,
+      "assignment2": 73,
+      "assignment3": 70
+    }
+  },
+  {
+    "name": "Student 57",
+    "roll_no": "CS157",
+    "quizzes": {
+      "quiz1": 15,
+      "quiz2": 17,
+      "quiz3": 10
+    },
+    "assignments": {
+      "assignment1": 99,
+      "assignment2": 70,
+      "assignment3": 76
+    }
+  },
+  {
+    "name": "Student 58",
+    "roll_no": "CS158",
+    "quizzes": {
+      "quiz1": 11,
+      "quiz2": 17,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 83,
+      "assignment2": 77,
+      "assignment3": 74
+    }
+  },
+  {
+    "name": "Student 59",
+    "roll_no": "CS159",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 12,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 98,
+      "assignment2": 86,
+      "assignment3": 71
+    }
+  },
+  {
+    "name": "Student 60",
+    "roll_no": "CS160",
+    "quizzes": {
+      "quiz1": 18,
+      "quiz2": 19,
+      "quiz3": 18
+    },
+    "assignments": {
+      "assignment1": 73,
+      "assignment2": 70,
+      "assignment3": 71
+    }
+  },
+  {
+    "name": "Student 61",
+    "roll_no": "CS161",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 15,
+      "quiz3": 13
+    },
+    "assignments": {
+      "assignment1": 72,
+      "assignment2": 79,
+      "assignment3": 96
+    }
+  },
+  {
+    "name": "Student 62",
+    "roll_no": "CS162",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 10,
+      "quiz3": 10
+    },
+    "assignments": {
+      "assignment1": 75,
+      "assignment2": 80,
+      "assignment3": 70
+    }
+  },
+  {
+    "name": "Student 63",
+    "roll_no": "CS163",
+    "quizzes": {
+      "quiz1": 11,
+      "quiz2": 10,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 79,
+      "assignment2": 93,
+      "assignment3": 94
+    }
+  },
+  {
+    "name": "Student 64",
+    "roll_no": "CS164",
+    "quizzes": {
+      "quiz1": 20,
+      "quiz2": 10,
+      "quiz3": 15
+    },
+    "assignments": {
+      "assignment1": 77,
+      "assignment2": 93,
+      "assignment3": 76
+    }
+  },
+  {
+    "name": "Student 65",
+    "roll_no": "CS165",
+    "quizzes": {
+      "quiz1": 13,
+      "quiz2": 12,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 91,
+      "assignment2": 84,
+      "assignment3": 74
+    }
+  },
+  {
+    "name": "Student 66",
+    "roll_no": "CS166",
+    "quizzes": {
+      "quiz1": 13,
+      "quiz2": 18,
+      "quiz3": 17
+    },
+    "assignments": {
+      "assignment1": 74,
+      "assignment2": 95,
+      "assignment3": 76
+    }
+  },
+  {
+    "name": "Student 67",
+    "roll_no": "CS167",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 17,
+      "quiz3": 18
+    },
+    "assignments": {
+      "assignment1": 86,
+      "assignment2": 100,
+      "assignment3": 95
+    }
+  },
+  {
+    "name": "Student 68",
+    "roll_no": "CS168",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 13,
+      "quiz3": 10
+    },
+    "assignments": {
+      "assignment1": 77,
+      "assignment2": 77,
+      "assignment3": 77
+    }
+  },
+  {
+    "name": "Student 69",
+    "roll_no": "CS169",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 11,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 99,
+      "assignment2": 96,
+      "assignment3": 100
+    }
+  },
+  {
+    "name": "Student 70",
+    "roll_no": "CS170",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 18,
+      "quiz3": 17
+    },
+    "assignments": {
+      "assignment1": 95,
+      "assignment2": 83,
+      "assignment3": 70
+    }
+  },
+  {
+    "name": "Student 71",
+    "roll_no": "CS171",
+    "quizzes": {
+      "quiz1": 14,
+      "quiz2": 19,
+      "quiz3": 13
+    },
+    "assignments": {
+      "assignment1": 98,
+      "assignment2": 95,
+      "assignment3": 99
+    }
+  },
+  {
+    "name": "Student 72",
+    "roll_no": "CS172",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 19,
+      "quiz3": 13
+    },
+    "assignments": {
+      "assignment1": 94,
+      "assignment2": 95,
+      "assignment3": 99
+    }
+  },
+  {
+    "name": "Student 73",
+    "roll_no": "CS173",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 17,
+      "quiz3": 12
+    },
+    "assignments": {
+      "assignment1": 96,
+      "assignment2": 98,
+      "assignment3": 76
+    }
+  },
+  {
+    "name": "Student 74",
+    "roll_no": "CS174",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 11,
+      "quiz3": 17
+    },
+    "assignments": {
+      "assignment1": 70,
+      "assignment2": 75,
+      "assignment3": 91
+    }
+  },
+  {
+    "name": "Student 75",
+    "roll_no": "CS175",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 19,
+      "quiz3": 17
+    },
+    "assignments": {
+      "assignment1": 91,
+      "assignment2": 79,
+      "assignment3": 92
+    }
+  },
+  {
+    "name": "Student 76",
+    "roll_no": "CS176",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 12,
+      "quiz3": 18
+    },
+    "assignments": {
+      "assignment1": 90,
+      "assignment2": 90,
+      "assignment3": 87
+    }
+  },
+  {
+    "name": "Student 77",
+    "roll_no": "CS177",
+    "quizzes": {
+      "quiz1": 14,
+      "quiz2": 12,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 76,
+      "assignment2": 90,
+      "assignment3": 92
+    }
+  },
+  {
+    "name": "Student 78",
+    "roll_no": "CS178",
+    "quizzes": {
+      "quiz1": 11,
+      "quiz2": 15,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 73,
+      "assignment2": 72,
+      "assignment3": 80
+    }
+  },
+  {
+    "name": "Student 79",
+    "roll_no": "CS179",
+    "quizzes": {
+      "quiz1": 13,
+      "quiz2": 13,
+      "quiz3": 11
+    },
+    "assignments": {
+      "assignment1": 92,
+      "assignment2": 88,
+      "assignment3": 95
+    }
+  },
+  {
+    "name": "Student 80",
+    "roll_no": "CS180",
+    "quizzes": {
+      "quiz1": 18,
+      "quiz2": 20,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 81,
+      "assignment2": 84,
+      "assignment3": 95
+    }
+  },
+  {
+    "name": "Student 81",
+    "roll_no": "CS181",
+    "quizzes": {
+      "quiz1": 18,
+      "quiz2": 12,
+      "quiz3": 20
+    },
+    "assignments": {
+      "assignment1": 87,
+      "assignment2": 78,
+      "assignment3": 83
+    }
+  },
+  {
+    "name": "Student 82",
+    "roll_no": "CS182",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 15,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 80,
+      "assignment2": 99,
+      "assignment3": 70
+    }
+  },
+  {
+    "name": "Student 83",
+    "roll_no": "CS183",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 12,
+      "quiz3": 15
+    },
+    "assignments": {
+      "assignment1": 75,
+      "assignment2": 98,
+      "assignment3": 98
+    }
+  },
+  {
+    "name": "Student 84",
+    "roll_no": "CS184",
+    "quizzes": {
+      "quiz1": 20,
+      "quiz2": 17,
+      "quiz3": 18
+    },
+    "assignments": {
+      "assignment1": 92,
+      "assignment2": 84,
+      "assignment3": 83
+    }
+  },
+  {
+    "name": "Student 85",
+    "roll_no": "CS185",
+    "quizzes": {
+      "quiz1": 11,
+      "quiz2": 15,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 76,
+      "assignment2": 90,
+      "assignment3": 91
+    }
+  },
+  {
+    "name": "Student 86",
+    "roll_no": "CS186",
+    "quizzes": {
+      "quiz1": 14,
+      "quiz2": 15,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 99,
+      "assignment2": 99,
+      "assignment3": 93
+    }
+  },
+  {
+    "name": "Student 87",
+    "roll_no": "CS187",
+    "quizzes": {
+      "quiz1": 14,
+      "quiz2": 20,
+      "quiz3": 10
+    },
+    "assignments": {
+      "assignment1": 95,
+      "assignment2": 95,
+      "assignment3": 96
+    }
+  },
+  {
+    "name": "Student 88",
+    "roll_no": "CS188",
+    "quizzes": {
+      "quiz1": 20,
+      "quiz2": 19,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 95,
+      "assignment2": 74,
+      "assignment3": 78
+    }
+  },
+  {
+    "name": "Student 89",
+    "roll_no": "CS189",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 13,
+      "quiz3": 16
+    },
+    "assignments": {
+      "assignment1": 78,
+      "assignment2": 99,
+      "assignment3": 90
+    }
+  },
+  {
+    "name": "Student 90",
+    "roll_no": "CS190",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 17,
+      "quiz3": 13
+    },
+    "assignments": {
+      "assignment1": 85,
+      "assignment2": 98,
+      "assignment3": 73
+    }
+  },
+  {
+    "name": "Student 91",
+    "roll_no": "CS191",
+    "quizzes": {
+      "quiz1": 10,
+      "quiz2": 18,
+      "quiz3": 11
+    },
+    "assignments": {
+      "assignment1": 96,
+      "assignment2": 90,
+      "assignment3": 82
+    }
+  },
+  {
+    "name": "Student 92",
+    "roll_no": "CS192",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 16,
+      "quiz3": 15
+    },
+    "assignments": {
+      "assignment1": 77,
+      "assignment2": 70,
+      "assignment3": 74
+    }
+  },
+  {
+    "name": "Student 93",
+    "roll_no": "CS193",
+    "quizzes": {
+      "quiz1": 16,
+      "quiz2": 18,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 92,
+      "assignment2": 81,
+      "assignment3": 74
+    }
+  },
+  {
+    "name": "Student 94",
+    "roll_no": "CS194",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 13,
+      "quiz3": 17
+    },
+    "assignments": {
+      "assignment1": 94,
+      "assignment2": 98,
+      "assignment3": 75
+    }
+  },
+  {
+    "name": "Student 95",
+    "roll_no": "CS195",
+    "quizzes": {
+      "quiz1": 17,
+      "quiz2": 20,
+      "quiz3": 19
+    },
+    "assignments": {
+      "assignment1": 91,
+      "assignment2": 75,
+      "assignment3": 85
+    }
+  },
+  {
+    "name": "Student 96",
+    "roll_no": "CS196",
+    "quizzes": {
+      "quiz1": 11,
+      "quiz2": 12,
+      "quiz3": 13
+    },
+    "assignments": {
+      "assignment1": 76,
+      "assignment2": 98,
+      "assignment3": 71
+    }
+  },
+  {
+    "name": "Student 97",
+    "roll_no": "CS197",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 20,
+      "quiz3": 12
+    },
+    "assignments": {
+      "assignment1": 92,
+      "assignment2": 95,
+      "assignment3": 90
+    }
+  },
+  {
+    "name": "Student 98",
+    "roll_no": "CS198",
+    "quizzes": {
+      "quiz1": 12,
+      "quiz2": 16,
+      "quiz3": 12
+    },
+    "assignments": {
+      "assignment1": 77,
+      "assignment2": 84,
+      "assignment3": 95
+    }
+  },
+  {
+    "name": "Student 99",
+    "roll_no": "CS199",
+    "quizzes": {
+      "quiz1": 19,
+      "quiz2": 11,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 93,
+      "assignment2": 85,
+      "assignment3": 95
+    }
+  },
+  {
+    "name": "Student 100",
+    "roll_no": "CS200",
+    "quizzes": {
+      "quiz1": 18,
+      "quiz2": 12,
+      "quiz3": 14
+    },
+    "assignments": {
+      "assignment1": 75,
+      "assignment2": 72,
+      "assignment3": 89
+    }
+  }
+]
